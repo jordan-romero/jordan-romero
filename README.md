@@ -4,7 +4,23 @@
 
 ### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
 
-##### Connect with Me: ![image of linkedin icon]
+##### Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-romero-57509859/), [Medium](https://jordan-t-romero.medium.com/)
+
+<p align="center">
+    <img 
+        align="center"
+        alt="Jordles113's GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Jordles113&show_icons=true"
+    />
+</p>
+
+<p align="center">
+    <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordles113&show_icons=true" 
+    />
+    </a>
+</p>
 <!--
 **jordles113/jordles113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
