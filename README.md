@@ -1,14 +1,17 @@
 # Jordan T. Romero
+###### Pronouns: she/her
 
-**Full Stack Developer.** Possess strong skills in team-building, communication, and project management that promote healthy workspaces and strong team-focused projects. Enjoy problem solving, self growth, & learning new things.
+**Full Stack Developer.** Possess strong skills in team-building, communication, and project management that promote healthy workspaces and strong team-focused projects. Designs solutions combing analytical, technical, and problem-solving skills to make ideas a reality. 
 
 ### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
 
-##### Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-romero-57509859/), [Medium](https://jordan-t-romero.medium.com/)
+
+###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-romero-57509859/), [Medium](https://jordan-t-romero.medium.com/)
+
 
 <p align="center">
     <img 
-        align="center"
+        align = "center"
         alt="Jordles113's GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=Jordles113&show_icons=true"
     />
@@ -16,7 +19,7 @@
 
 <p align="center">
     <img 
-        align="center" 
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordles113&show_icons=true" 
     />
     </a>
