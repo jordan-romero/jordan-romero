@@ -6,7 +6,7 @@
 ### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
 
 
-###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-romero-57509859/), [Medium](https://jordan-t-romero.medium.com/)
+###    Connect with Me: [LinkedIn](www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/)
 
 
 <p align="center">
