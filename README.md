@@ -1,7 +1,15 @@
 # Jordan T. Romero
 ###### Pronouns: she/her
 
-**Full Stack Developer.** Possess strong skills in team-building, communication, and project management that promote healthy workspaces and strong team-focused projects. Designs solutions combining analytical, technical, and problem-solving skills to make ideas come to life.  
+I am a tenacious and versatile Full Stack Software Engineer with growing knowledge and practical experience in programming, applications development, coding, debugging, testing and troubleshooting.
+
+I have the ability to conceptualize, design, and develop new applications quickly and efficiently.
+
+I have experience as a top member of a high-performing non-profit team with a focus on exceptional communication skills and leadership.
+
+I am a natural self-learner and love multi-tasking and using technical and creative problem solving.
+
+I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 
 ### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
 
