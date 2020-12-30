@@ -14,7 +14,7 @@ I am comfortable and confident working in diverse environments. I believe that d
 ### Technologies: React, Redux, Rails, Ruby, HTML, CSS, Sass
 
 
-###    Connect with Me: [LinkedIn](www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/)
+###    Connect with Me: [LinkedIn](www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](www.jordantromero.com)
 
 
 <p align="center">
