@@ -11,7 +11,7 @@ I am a natural self-learner and love multi-tasking and using technical and creat
 
 I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 
-### Technologies: React, Redux, Rails, Ruby, HTML, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap
+### Technologies: React(ES6 & Hooks), Redux, Rails, Ruby, HTML5, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap
 
 
 ###    Connect with Me: [LinkedIn](www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
