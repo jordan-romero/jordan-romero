@@ -1,7 +1,7 @@
 # Jordan T. Romero
 ###### Pronouns: she/her
 
-Currently honing my React skills and learning Node.js!
+<p align="center">- 🌱 I’m currently honing my React skills and learning Node.js! -</p>
 
 I am a tenacious and versatile Full Stack Software Engineer with growing knowledge and practical experience in programming, applications development, coding, debugging, testing and troubleshooting.
 
