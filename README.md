@@ -16,7 +16,7 @@ I am comfortable and confident working in diverse environments. I believe that d
 ### Technologies: React(ES6 & Hooks), Redux, Javascript, Rails, Ruby, HTML5, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap, Heroku, Netlify ++
 
 
-###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-t-romero/), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
+###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
 
 
 <p align="center">
