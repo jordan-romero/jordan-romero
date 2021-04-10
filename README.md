@@ -19,15 +19,12 @@ I am comfortable and confident working in diverse environments. I believe that d
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
 
 
-<p align="center">
-    <img 
-        align = "center"
-        alt="Jordles113's GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Jordles113&show_icons=true"
-    />
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordles113&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordles113&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jordles113&repo=convoychat" />
+</a>
 <!--
 **jordles113/jordles113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
