@@ -1,7 +1,7 @@
 # Jordan T. Romero
 ###### Pronouns: she/her
 
-<p align="center">- 🌱 I’m currently honing my React skills and learning Node.js! 🌱 -</p>
+<p align="center">- 🌱 Always looking to learn new things. Currently working with Typescript and React! 🌱 -</p>
 
 I am a tenacious and versatile Full Stack Software Engineer with growing knowledge and practical experience in programming, applications development, coding, debugging, testing and troubleshooting.
 
@@ -13,7 +13,7 @@ I am a natural self-learner and love multi-tasking and using technical and creat
 
 I am comfortable and confident working in diverse environments. I believe that diverse teams lead to new, innovative, and inclusive ideas.
 
-### Technologies: React(ES6 & Hooks), Redux, Javascript, Rails, Ruby, HTML5, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap, Heroku, Netlify ++
+### Technologies: React(ES6 & Hooks), Redux, Javascript, Typescript, GraphQL, Rails, Ruby, HTML5, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap, Heroku, Netlify ++
 
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
