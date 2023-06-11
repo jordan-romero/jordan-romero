@@ -1,7 +1,7 @@
 # Jordan T. Romero
 ###### Pronouns: she/her
 
-<p align="center">- 🌱 Always looking to learn new things. Currently working with Typescript and React! 🌱 -</p>
+<p align="center">- 🌱 Always looking to learn new things. Currently working with Typescript, React, and NodeJS! 🌱 -</p>
 
 🚀 Startups: Working hard and working fast to produce simplistic programming solutions that make a difference 
 
