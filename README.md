@@ -13,7 +13,7 @@
 
 👱🏽‍♂️👩🏽 People are important: Always striving to collaborate, ask questions, and work together to develop the best outcomes.
 
-### Technologies: React(ES6 & Hooks), Redux, Javascript, Typescript, GraphQL, Rails, Ruby, HTML5, CSS, SASS, Swift, Jest, PostgreSQL, Bootstrap, Heroku, Netlify ++
+### Technologies: React(ES6 & Hooks), Javascript, Typescript, GraphQL, NodeJs, PostgreSQL, Playwright, Cypress, HTML5, CSS, SASS, Redux, Rails, Ruby, Swift, Jest, Bootstrap, Heroku, Netlify ++, Vercel 
 
 
 ###    Connect with Me: [LinkedIn](https://www.linkedin.com/in/jordan-t-romero), [Medium](https://jordan-t-romero.medium.com/), [Portfolio](https://www.jordantromero.com/)
